@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      ArtjammersApp
+    Hello world
     </>
   )
 }
